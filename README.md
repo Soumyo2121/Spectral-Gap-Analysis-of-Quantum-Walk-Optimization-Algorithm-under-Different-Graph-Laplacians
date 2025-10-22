@@ -59,6 +59,4 @@ slides/Spectral_Gap_QWOA.pptx
 	•	Project by Soumyojyoti Dutta, M.Tech in Quantum Technology, IIT Jodhpur.
 	•	Supervised by Dr. Jason Pye, Postdoc researcher at Stockholm University
 
-⸻
 
-👉 I kept it general since I don’t know the exact filenames of your Python scripts. Do you want me to look inside your uploaded code files and make the README reference the exact script names/functions?
